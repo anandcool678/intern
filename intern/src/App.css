@@ -27,7 +27,19 @@
 .App-link {
   color: #61dafb;
 }
-
+.timefram{
+  margin-left: 5px;
+}
+.inputs{
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: space-evenly;
+}
+.checkBoxes{
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-evenly;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
